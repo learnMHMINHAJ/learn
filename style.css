@@ -1,0 +1,15 @@
+h1{
+ color:green;
+}
+p{
+    color:rgb(175, 70, 70);
+}
+.heading1{
+    color:rgb(133, 133, 14);
+}
+.border{
+    border: 5px dotted gray;
+}
+#h2{
+    background-color: aqua;
+}
